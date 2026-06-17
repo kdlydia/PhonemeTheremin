@@ -47,9 +47,9 @@ git clone https://github.com/kdlydia/hand-vocal-synth
 cd hand-vocal-synth
 ```
 
-**Step 2. Start the Ultraleap tracking service**
+**Step 2. Plug in the Leap Motion controller and start the Ultraleap tracking service**
 
-Open the Ultraleap Hand Tracking app. Its icon appears in the menu bar when running. Plug in the Leap Motion controller. The icon changes when a device is detected.
+Plug the Leap Motion controller into a USB port first. Then open the Ultraleap Hand Tracking app. Its icon appears in the menu bar when running. The icon changes when a device is detected. Do not proceed to Step 3 until the icon confirms the device is recognized.
 
 **Step 3. Start the bridge**
 
